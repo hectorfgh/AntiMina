@@ -1,7 +1,3 @@
-<?php  
+<?php
 
-$queries = array();
-parse_str($_SERVER['QUERY_STRING'], $queries);
-$file = $queries['file'];
-
-echo require __DIR__ . '/../' . $file;
+require __DIR__.'/../public/index.php';
