@@ -12,14 +12,14 @@
     <title>TheGazette - News Magazine HTML5 Template | Home</title>
 
     <!-- Favicon  -->
-    <link rel="icon" href="{{ asset('public/assets/img/core-img/favicon.ico') }}">
+    <link rel="icon" href="{{ asset('assets/img/core-img/favicon.ico') }}">
 
     <!-- Core Style CSS -->
-    <link rel="stylesheet" href="{{ asset('public/assets/css/core-style.css') }}">
-    <link rel="stylesheet" href="{{ asset('public/assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/core-style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 
     <!-- Responsive CSS -->
-    <link href="{{ asset('public/assets/css/responsive.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/responsive.css') }}" rel="stylesheet">
 
 </head>
 
