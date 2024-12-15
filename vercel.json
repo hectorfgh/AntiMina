@@ -12,6 +12,7 @@
       "APP_ENV": "production",
       "APP_DEBUG": "true",
       "APP_URL": "https://antimina.com",
+      "APP_KEY":"base64:bn1dWUKUb1O91WMYdoWl5q24EIrl0xJrgt5DHp3dgKg=",
 
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
