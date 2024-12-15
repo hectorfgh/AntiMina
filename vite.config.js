@@ -8,4 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    mode: process.env.NODE_ENV || 'development',
 });
